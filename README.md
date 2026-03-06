@@ -5,3 +5,10 @@ This repository contains my Machine Learning lab practicals performed using Pyth
 Student: Premanshu Devendra Kusre
 USN: CS23117
 Branch: B.Tech CSE
+
+## Tools Used
+- Python
+- Google Colab
+- Scikit-learn
+- Pandas
+- NumPy
