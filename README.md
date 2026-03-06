@@ -2,9 +2,11 @@
 
 This repository contains my Machine Learning lab practicals performed using Python in Google Colab.
 
-  Student: Premanshu Devendra Kusre
-  USN: CS23117
-  Branch: B.Tech CSE
+## Student Information
+
+Name: Premanshu Devendra Kusre  
+USN: CS23117  
+Branch: B.Tech Computer Science Engineering
 
 
 ## Tools Used
