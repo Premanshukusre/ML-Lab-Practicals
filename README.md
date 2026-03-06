@@ -1,2 +1,7 @@
-# ML-Lab-Practicals
-Machine Learning Lab Practicals using Python and Google Colab
+# Machine Learning Lab Practicals
+
+This repository contains my Machine Learning lab practicals performed using Python in Google Colab.
+
+Student: Premanshu Devendra Kusre
+USN: CS23117
+Branch: B.Tech CSE
