@@ -20,9 +20,10 @@ Branch: B.Tech Computer Science Engineering
 ## Repository Structure
 This repository will contain multiple machine learning practicals performed during my lab sessions.
 
-## Practicals Included
+## Practicals
 
-1. Pre-Lab Practical 01 – Machine Learning Basics
+1. Practical 01 – Machine Learning Basics
+2. Practical 02 – Data Preprocessing
 
 
 ## Author
