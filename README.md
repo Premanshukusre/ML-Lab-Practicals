@@ -22,8 +22,9 @@ This repository will contain multiple machine learning practicals performed duri
 
 ## Practicals
 
-1. Practical 01 – Machine Learning Basics
-2. Practical 02 – Data Preprocessing
+- Practical 01 – ML Basics
+- Practical 02 – Data Preprocessing
+- Practical 03 – Linear Regression
 
 
 ## Author
