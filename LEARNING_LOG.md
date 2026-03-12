@@ -7,3 +7,8 @@
 
 - Uploaded Practical 03
 - Learned model training and regression basics
+
+## 12 March
+
+- Uploaded Practical 04 notebook
+- Practiced classification using logistic regression
