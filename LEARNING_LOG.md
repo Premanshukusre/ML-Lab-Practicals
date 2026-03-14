@@ -12,3 +12,8 @@
 
 - Uploaded Practical 04 notebook
 - Practiced classification using logistic regression
+
+## 14 March
+
+- Uploaded Practical 05 notebook
+- Practiced machine learning model implementation
