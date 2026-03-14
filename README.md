@@ -26,7 +26,7 @@ This repository will contain multiple machine learning practicals performed duri
 - Practical 02 – Data Preprocessing
 - Practical 03 – Linear Regression
 - Practical 04 – Logistic Regression
-
+- Practical 05 – ML Algorithm
 
 ## Author
 Premanshu Devendra Kusre  
