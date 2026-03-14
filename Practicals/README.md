@@ -9,4 +9,4 @@ This folder contains all Machine Learning Lab practical notebooks.
 2. Practical 02 – Data Preprocessing  
 3. Practical 03 – Linear Regression  
 4. Practical 04 – Logistic Regression
-5. Practical 05 – Coming Soon
+5. Practical 05 – ML Algorithm
