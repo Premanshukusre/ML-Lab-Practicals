@@ -10,3 +10,9 @@ This folder contains all Machine Learning Lab practical notebooks.
 3. Practical 03 – Linear Regression  
 4. Practical 04 – Logistic Regression
 5. Practical 05 – ML Algorithm
+
+
+## About
+
+This folder contains all Machine Learning lab practical notebooks.
+Each notebook demonstrates different ML concepts and algorithms.
