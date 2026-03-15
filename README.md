@@ -38,3 +38,9 @@ B.Tech Computer Science Engineering
 - datasets → Contains datasets used in practicals
 - LAB_INFO.md → Information about the lab course
 - LEARNING_LOG.md → Notes and learning progress
+
+## How to Run the Notebooks
+
+1. Open the notebook in Google Colab.
+2. Upload the dataset if required.
+3. Run the cells step by step to train and test the model.
