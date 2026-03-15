@@ -17,3 +17,9 @@
 
 - Uploaded Practical 05 notebook
 - Practiced machine learning model implementation
+
+
+## 15 March
+
+- Reviewed previous ML practical notebooks
+- Improved documentation of the repository
