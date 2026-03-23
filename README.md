@@ -18,6 +18,7 @@ Branch: B.Tech Computer Science Engineering
 
 
 ## Repository Structure
+
 This repository will contain multiple machine learning practicals performed during my lab sessions.
 
 ## Practicals
