@@ -11,6 +11,7 @@ This repository contains all the practical programs performed during the ML lab.
 
 - Practicals folder contains all lab notebooks
 - datasets folder contains datasets used in experiments
+  
 
 
 ## Lab Objectives
