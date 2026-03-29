@@ -32,6 +32,7 @@ This repository will contain multiple machine learning practicals performed duri
 - Practical 04 – Logistic Regression
 - Practical 05 – ML Algorithm
 
+
 ## Author
 
 Premanshu Devendra Kusre  
