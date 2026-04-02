@@ -36,7 +36,6 @@ B.Tech Computer Science Engineering
 
 
 ## Repository Structure
-
 - Practicals → Contains all ML lab notebooks
 - datasets → Contains datasets used in practicals
 - LAB_INFO.md → Information about the lab course
