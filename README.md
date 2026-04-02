@@ -30,7 +30,6 @@ This repository will contain multiple machine learning practicals performed duri
 
 
 ## Author
-
 Premanshu Devendra Kusre  
 B.Tech Computer Science Engineering
 
