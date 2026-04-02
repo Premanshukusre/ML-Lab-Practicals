@@ -4,7 +4,6 @@ This repository contains my Machine Learning lab practicals performed using Pyth
 
 
 ## Student Information
-
 Name: Premanshu Devendra Kusre  
 USN: CS23117  
 Branch: B.Tech Computer Science Engineering
